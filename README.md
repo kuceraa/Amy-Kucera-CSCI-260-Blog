@@ -1,1 +1,1 @@
-# Amy Kucera CSCI 260 Blog
+# Welcome to my Blog!
