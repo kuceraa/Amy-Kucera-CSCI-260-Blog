@@ -9,9 +9,8 @@ The author of the textbook argues that knowledge and experience falls under the 
 The author writes that building your knowledge portfolio is similar to how investors manage their portfolio: invest regularly, diversify, manage risk, buy low/sell high, and review/rebalance. In order to reach these goals, the other provides examples such as reading books, lerning new programming languages, and taking classes. I think the goal that spoke to me the most was reading a technical book each quarter. Before college, I loved to read. I always tried to read a new book ever few months. However, once I got to college, I read fewer and fewer books just because of my busy schedule. I would try to read a technical book or even a fun book, but then I have to focus on busy work that I need to get done for my classes. Additionally, I found it difficult to find the right technical books to read.
 This past summer I created a LinkedIn profile in order to start applying to summer internships. As I started making connections, I was able to see posts people were making about upcoming technology and ways to improve your coding skills. By making these connections, I gained access to people working in the field that I aspire to work in and also to their posts that they share about how to expand your konwledge portfolio. As I think about ways to improve my portfolio, I think the articles and posts on LinkedIn are going to replace technical books. By using LinkedIn, you don't have to search for the right books to read. You have various articles right at your disposal that are posted by people who have experience working in that field. These articles not only help expand your portfolio, but they can also inspire different topics to explore more in depth. 
   </p>
-  
+  <button> Chapter 1 </button>
   </body>
-  <button> Chatper 1 </button>
 
 </html>
     
