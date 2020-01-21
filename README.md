@@ -11,7 +11,7 @@ The author writes that building your knowledge portfolio is similar to how inves
 
   <p>This past summer I created a LinkedIn profile in order to start applying to summer internships. As I started making connections, I was able to see posts people were making about upcoming technology and ways to improve your coding skills. By making these connections, I gained access to people working in the field that I aspire to work in and also to their posts that they share about how to expand your konwledge portfolio. As I think about ways to improve my portfolio, I think the articles and posts on LinkedIn are going to replace technical books. By using LinkedIn, you don't have to search for the right books to read. You have various articles right at your disposal that are posted by people who have experience working in that field. These articles not only help expand your portfolio, but they can also inspire different topics to explore more in depth.</p>
   
-  <p>So as I think about the best way to expand your knowledge portfolio, I think social media will become an important factor. Social media not only works as a way expand your network, but it also allows you to gain helpful tips and advice on topics to study that best apply to your field of interest.</p>
+  <p>So as I think about the best way to expand your knowledge portfolio, I think social media will become an important factor. Social media not only works as a way expand your network, but it also allows you to gain helpful tips and advice on topics to study that best apply to your field of interest. So, I think it is going to become easier and easier to expand your portfolio because of the increased access to knowledge and advice.</p>
  
 
 
