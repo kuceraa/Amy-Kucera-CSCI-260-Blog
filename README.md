@@ -13,7 +13,7 @@ The author writes that building your knowledge portfolio is similar to how inves
   
   <p>So as I think about the best way to expand your knowledge portfolio, I think social media will become an important factor. Social media not only works as a way expand your network, but it also allows you to gain helpful tips and advice on topics to study that best apply to your field of interest.</p>
  
-  </body>
+
 
 </html>
     
