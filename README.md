@@ -17,7 +17,7 @@ The author writes that building your knowledge portfolio is similar to how inves
     <h1> Chapter 2 Mockup Practice </h1>
   </body>
  
-  
+  <img width="979" alt="Screen Shot 2020-01-27 at 11 05 06 PM" src="https://user-images.githubusercontent.com/59981315/73234767-8c4d6a80-4159-11ea-8670-5afc0e2d3344.png">
  
 
 
