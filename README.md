@@ -17,6 +17,7 @@ The author writes that building your knowledge portfolio is similar to how inves
     <h1> Chapter 2 Mockup Practice </h1>
   </body>
  <img width="979" alt="Screen Shot 2020-01-27 at 11 08 12 PM" src="https://user-images.githubusercontent.com/59981315/73234861-f7973c80-4159-11ea-95d3-bcd496dd9b12.png">
+  <p> For the log in page, I started with the welcome screen where the user indicates whether he/she is an administrator or volunteer. An administrator will use his/her email given by the organization while the volunteer will use his/her email and password that they used when they first signed up. I created two different screens: one for the volunteer log in and one for the admin log in. <\p>
   <img width="979" alt="Screen Shot 2020-01-27 at 11 05 06 PM" src="https://user-images.githubusercontent.com/59981315/73234767-8c4d6a80-4159-11ea-8670-5afc0e2d3344.png">
  
 
