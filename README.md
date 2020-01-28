@@ -16,8 +16,8 @@ The author writes that building your knowledge portfolio is similar to how inves
   <body>
     <h1> Chapter 2 Mockup Practice </h1>
   </body>
- 
-  https://github.com/kuceraa/Amy-Kucera-CSCI-260-Blog/blob/master/IMG_1912%202.HEIC
+ ![IMG_1912 2](https://user-images.githubusercontent.com/59981315/73234378-c0279080-4157-11ea-8630-6e444f963877.jpeg)
+
   
  
 
