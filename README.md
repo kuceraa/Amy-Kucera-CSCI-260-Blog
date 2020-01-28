@@ -23,5 +23,5 @@ The author writes that building your knowledge portfolio is similar to how inves
  
   <p> The first screen allows the user to choose what he/she wants to do (sign up for an event, change roles for an event, cancel sign up for an event). Based on which link the user picks, the user will be directed to the appropriate screen. The cancel screen is pretty simple. The user needs to select the event and role they signed up for and then briefly explain their reason for cancelling. The change role screen is also pretty simple. The user needs to select the event and current role they signed up for. The last step is to select the new role that he/she wants to sign up for. The sign up screen is a little more involved. The first part asks if the user is signing up a group. If yes, then the user is directed to a new screen asking the user to enter the info of each volunteer. Otherwise, the user will enter their personal info needed by the admins and then select the event and role they would like to volunteer for. For all three options, the user will be asked at the end how he/she would like to be notified of their action (by either phone or email confirmation). 
 
-</html>
+
     
